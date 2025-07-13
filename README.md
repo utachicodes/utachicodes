@@ -1,10 +1,9 @@
-## Konichiwaa !!
+## Konichiwaa devs !!
 
-I'm **Abdoullah Ndao**, but online I go by **utachi** a junior data scientist based in Senegal 🇸🇳.  
+I'm **Abdoullah Ndao**, but online I go by **utachi*, a junior data scientist based in Senegal 🇸🇳.  
 
 ### 🧠 What I’m into:
 - 🧪 Data Science & AI
-- 🖌️ UI/UX & frontend design
 - ✍🏽 Writing tech blogs & tutorials
 - 🧭 Exploring marine biology (sharks are elite 🦈)
 - 📜 Poetry, gym sessions, and cooking experiments
