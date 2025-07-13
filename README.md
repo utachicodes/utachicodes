@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there 🦇 I'm Abdoullah Ndao but most people know me as utachi.
+I'm a data scientist based in Senegal, passionate about turning bold design ideas into fast, accessible, and intuitive interfaces.
 
-<!--
-**utachicodes/utachicodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+When I’m not deep in code or fighting bugs, you’ll find me writing poetry, exploring marine biology, hitting the gym, or cooking up something new. I also enjoy teaching, writing blog posts.
 
-Here are some ideas to get you started:
+Fun facts:
+I do drink coffee and tea ☕
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sharks > everything 🦈
+
+Transformers still reigns supreme 🎴🔥
+
+Let's connect
+https://www.linkedin.com/in/abdoullahndao/
