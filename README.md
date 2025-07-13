@@ -13,5 +13,3 @@ I'm **Abdoullah Ndao**, but online I go by *utachi*, a junior data scientist bas
 - Sharks > everything  
 - *Transformers* is peak fiction 🤖🔥
 
-### 🌐 Let’s connect:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdoullah%20Ndao-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/abdoullahndao/)
