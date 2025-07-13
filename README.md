@@ -1,14 +1,24 @@
-## Hi there 🦇 
-Abdoullah Ndao here but most people know me as utachi, i'm a junior data scientist based in Senegal, passionate about turning bold design ideas into fast, accessible, and intuitive interfaces.
+## 👋 Hi there!
 
-When I’m not deep in code or fighting bugs, you’ll find me writing poetry, exploring marine biology, hitting the gym, or cooking up something new. I also enjoy teaching, writing blog posts.
+I'm **Abdoullah Ndao**, but online I go by **utachi** a junior data scientist based in Senegal 🇸🇳.  
 
-Fun facts:
-I do drink coffee and tea ☕
+---
 
-Sharks > everything 🦈
+### 🧠 What I’m into:
+- 🧪 Data Science & AI
+- 🖌️ UI/UX & frontend design
+- ✍🏽 Writing tech blogs & tutorials
+- 🧭 Exploring marine biology (sharks are elite 🦈)
+- 📜 Poetry, gym sessions, and cooking experiments
 
-Transformers still reigns supreme 🎴🔥
+---
 
-Let's connect
-https://www.linkedin.com/in/abdoullahndao/
+### ☕ Fun Facts:
+- I drink *both* coffee and tea  
+- Sharks > everything  
+- *Transformers* is peak fiction 🤖🔥
+
+---
+
+### 🌐 Let’s connect:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdoullah%20Ndao-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/abdoullahndao/)
