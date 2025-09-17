@@ -1,6 +1,8 @@
 ## Konichiwaa devs !!
 
-I'm **Abdoullah Ndao**, but online I go by *utachi*, a junior data scientist and frontend dev based in Senegal .  [![committers.top badge](https://user-badge.committers.top/senegal/utachicodes.svg)](https://user-badge.committers.top/senegal/utachicodes)
+I'm **Abdoullah Ndao**, but online I go by *utachi*, a junior data scientist and frontend dev based in Senegal .  
+
+[![committers.top badge](https://user-badge.committers.top/senegal/utachicodes.svg)](https://user-badge.committers.top/senegal/utachicodes)
 
 ### 🧠 What I’m into:
 - 🧪 Data Science & AI
