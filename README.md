@@ -10,7 +10,6 @@
 
 <!-- Badges below trophy -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=utachicodes&label=Profile+Views" alt="Views" /> 
   <img src="https://img.shields.io/github/followers/utachicodes?label=Followers" alt="Followers" /> 
   <img src="https://img.shields.io/github/stars/utachicodes?affiliations=OWNER%2CCOLLABORATOR&label=Repo+Stars" alt="Stars" /> 
   <a href="https://user-badge.committers.top/senegal_private/utachicodes">
