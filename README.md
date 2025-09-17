@@ -1,6 +1,6 @@
 ## Konichiwaa devs !!
 
-[![committers.top badge](https://user-badge.committers.top/senegal_private/USERNAME.svg)](https://user-badge.committers.top/senegal_private/USERNAME)
+[![committers.top badge](https://user-badge.committers.top/senegal/USERNAME.svg)](https://user-badge.committers.top/senegal/USERNAME)
 
 I'm **Abdoullah Ndao**, but online I go by *utachi*, a junior data scientist and frontend dev based in Senegal .  
 
